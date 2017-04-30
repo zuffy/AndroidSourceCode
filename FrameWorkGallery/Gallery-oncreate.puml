@@ -1,0 +1,236 @@
+/*
+participant
+actor
+boundary
+control
+entity
+database
+*/
+
+@startuml
+
+skinparam backgroundColor #EEEBDC
+skinparam handwritten true
+skinparam sequence {
+	ArrowColor DeepSkyBlue
+	ActorBorderColor DeepSkyBlue
+	LifeLineBorderColor blue
+	LifeLineBackgroundColor #A9DCDF
+
+	ParticipantBorderColor DeepSkyBlue
+	ParticipantBackgroundColor DodgerBlue
+	ParticipantFontName Impact
+	ParticipantFontSize 17
+	ParticipantFontColor #A9DCDF
+
+	ActorBackgroundColor aqua
+	ActorFontColor DeepSkyBlue
+	ActorFontSize 17
+	ActorFontName Aapex
+}
+
+
+participant Gallery
+participant AlbumPage
+
+participant SlotView
+
+participant AlbumSlotRenderer
+control SelectionManager
+boundary SlotViewPosition
+participant SlotViewTimeLayout
+database AlbumDataLoader
+participant AlbumSlidingWindow
+
+participant TextureUploader
+participant BitmapLoader
+participant SlotSelectMgr
+participant GLView
+participant SlotScrollBar
+
+title Gallery onCreate
+
+activate Gallery
+Gallery -> AlbumPage : StateManager.startState
+activate AlbumPage
+activate GLView
+AlbumPage -> AlbumPage: initialize
+
+Gallery -> AlbumPage : StateManager.onCreate
+group AlbumPage.onCreate->initializeViews
+    AlbumPage -> SlotView: setSlotRenderer
+    activate SlotView
+    activate AlbumSlotRenderer
+    activate SelectionManager
+    activate SlotSelectMgr
+    activate SlotViewPosition
+
+
+    SlotView -> SlotSelectMgr: setSlotRenderer
+    SlotView -> SlotViewPosition: setSlotRenderer
+    AlbumPage -> SlotView: setSelectMgr
+    AlbumPage -> GLView: addComponent
+end
+
+group AlbumPage.onCreate->initializeData
+    AlbumPage -> SelectionManager: setSourceMediaSet
+    AlbumPage -> AlbumSlotRenderer: setModel
+    activate AlbumDataLoader
+    activate AlbumSlidingWindow
+    activate TextureUploader
+    AlbumSlotRenderer -> AlbumDataLoader: getMediaSource
+    AlbumSlotRenderer -> SlotView: setMediaSource
+    SlotView -> SelectionManager: setMediaSource
+    SlotView -> SlotViewPosition: setMediaSource
+    AlbumSlotRenderer -> SlotView: setSlotCount
+    SlotView -> SlotViewPosition: setLayout
+    group SlotViewPosition.setMultiLayout
+            SlotViewPosition-> SlotViewTimeLayout
+    end
+    group SlotView.setSlotCount->setScrollPosition
+        group SlotView.setScrollPosition->updateScrollPosition
+            SlotView -> SlotViewPosition: updateScrollPosition
+            SlotViewPosition -> AlbumSlotRenderer: onVisibleRangeChanged
+
+            AlbumSlotRenderer->AlbumSlidingWindow: setActiveWindow
+            group AlbumSlidingWindow.setActiveWindow
+                group setActiveWindow-> doActiveWindow
+                    AlbumSlidingWindow-> AlbumDataLoader: setVisibleWindow
+                end
+
+                group AlbumSlidingWindow.setContentWindow
+                    alt !mIsActive
+                        AlbumSlidingWindow -> AlbumDataLoader: setActiveWindow
+                    else
+                        loop contentStart ~ contentEnd
+                            AlbumSlidingWindow-> AlbumSlidingWindow: prepareSlotContent
+                            note over AlbumSlidingWindow: 创建ThumbnailLoader
+                        end
+                    end
+                end
+
+                group AlbumSlidingWindow.updateTextureUploadQueue
+                    AlbumSlidingWindow-> TextureUploader:clear
+                    loop mActiveStart -> mActiveEnd
+                        AlbumSlidingWindow-> TextureUploader: addFgTexture
+                    end
+
+                    loop i: 0~max((mContentEnd - mActiveEnd),(mActiveStart - mContentStart))
+                        AlbumSlidingWindow-> TextureUploader: addBgTexture(mActiveEnd+i)
+                        AlbumSlidingWindow-> TextureUploader: addBgTexture(mActiveStart - i -1)
+                    end
+                end
+
+                group AlbumSlidingWindow.updateAllImageRequests
+                    loop i : mActiveStart~mActiveEnd
+                        group requestSlotImage(i)
+                            AlbumSlidingWindow-> BitmapLoader: startLoad
+                            AlbumSlidingWindow-> BitmapLoader: isRequestInProgress
+                        end
+                    end
+
+                    alt mActiveRequestCount == 0
+                        group requestNonactiveImages
+                            loop i: 0~max((mContentEnd - mActiveEnd),(mActiveStart - mContentStart))
+                                group requestSlotImage(mActiveEnd + i)
+                                AlbumSlidingWindow-> BitmapLoader: startLoad
+                                AlbumSlidingWindow-> BitmapLoader: isRequestInProgress
+                                end
+                                group requestSlotImage(mActiveStart - 1 - i)
+                                AlbumSlidingWindow-> BitmapLoader: startLoad
+                                AlbumSlidingWindow-> BitmapLoader: isRequestInProgress
+                                end
+                            end
+                        end
+                    else mActiveRequestCount != 0
+                        group cancelNonactiveImages
+                            loop i: 0~max((mContentEnd - mActiveEnd),(mActiveStart - mContentStart))
+                                 group requestSlotImage(mActiveEnd + i)
+                                 AlbumSlidingWindow-> BitmapLoader: cancelLoad
+                                 end
+                                 group requestSlotImage(mActiveStart - 1 - i)
+                                 AlbumSlidingWindow-> BitmapLoader: cancelLoad
+                                 end
+                            end
+                        end
+                    end
+                end
+
+            end
+
+            SlotView -> SlotScrollBar:setScrollLimit
+            SlotView -> SlotScrollBar:updateScrollPosition
+
+        end
+    end
+
+end
+
+deactivate Gallery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@enduml
+
+

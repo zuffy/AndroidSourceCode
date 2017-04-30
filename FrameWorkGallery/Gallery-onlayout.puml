@@ -1,0 +1,156 @@
+/*
+participant
+actor
+boundary
+control
+entity
+database
+*/
+
+@startuml
+
+skinparam backgroundColor #EEEBDC
+skinparam handwritten true
+skinparam sequence {
+	ArrowColor DeepSkyBlue
+	ActorBorderColor DeepSkyBlue
+	LifeLineBorderColor blue
+	LifeLineBackgroundColor #A9DCDF
+
+	ParticipantBorderColor DeepSkyBlue
+	ParticipantBackgroundColor DodgerBlue
+	ParticipantFontName Impact
+	ParticipantFontSize 17
+	ParticipantFontColor #A9DCDF
+
+	ActorBackgroundColor aqua
+	ActorFontColor DeepSkyBlue
+	ActorFontSize 17
+	ActorFontName Aapex
+}
+
+
+participant AlbumPage
+participant GLRootView
+participant SlotView
+
+
+title Gallery glview render
+
+== resume ==
+[-> AlbumPage: onResume
+
+AlbumPage -> GLRootView: addComponent
+note right : GLRootView.mComponents.push(AlbumPage.mRootPane);
+GLRootView -> GLRootView: requestLayoutContentPane
+note left : 基本没干嘛;
+
+== layout ==
+[-> GLRootView: onLayout
+
+GLRootView -> GLRootView: requestLayoutContentPane
+GLRootView -> GLScrollView: onLayout
+
+== onSurfaceCreated ==
+[-> GLRootView : onSurfaceCreated
+
+GLRootView -> BasicTexture: invalidateAllTextures
+GLRootView -> GLRootView : setRenderMode
+
+== onSurfaceChanged ==
+[-> GLRootView : onSurfaceChanged
+
+GLRootView -> GalleryUtils : setRenderThread
+GLRootView -> GLCanvas : setSize
+
+== onDrawFrameLocked ==
+[-> GLRootView : onDrawFrameLocked
+
+GLRootView -> GLCanvas20 : deleteRecycledResources
+GLRootView -> UploadedTexture : resetUploadLimit
+
+alt GLRootView mFlags NEED_LAYOUT
+    group GLRootView.onDrawFrameLocked -> layoutContentPane
+        GLRootView -> AlbumPage: onLayout
+        note left: GLRootView.mComponents(GLView).layout->onLayout
+
+        AlbumPage -> SlotView: onLayout
+        note left: SlotView.layout->onLayout
+
+        AlbumPage -> GalleryUtils : setViewPointMatrix
+    end
+end
+
+GLRootView -> GLScrollView : render
+alt animation
+    GLScrollView -> GLRootView : requestRender
+    alt mRenderRequested
+        GLRootView -> GLRootView : super.requestRender
+    end
+end
+
+
+alt
+    GLRootView -> AlbumPage : renderBackground
+    GLRootView -> AlbumPage : renderTopBackground
+    GLRootView -> AlbumPage : render
+    AlbumPage -> SlotView : render
+    note left: AlbumPage.renderChild -> SlotView.render
+end
+
+...
+== onSurfaceCreated ==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@enduml
+
+

@@ -1,0 +1,192 @@
+/*
+participant
+actor
+boundary
+control
+entity
+database
+*/
+
+@startuml
+
+skinparam backgroundColor #EEEBDC
+skinparam handwritten true
+skinparam sequence {
+	ArrowColor DeepSkyBlue
+	ActorBorderColor DeepSkyBlue
+	LifeLineBorderColor blue
+	LifeLineBackgroundColor #A9DCDF
+
+	ParticipantBorderColor DeepSkyBlue
+	ParticipantBackgroundColor DodgerBlue
+	ParticipantFontName Impact
+	ParticipantFontSize 17
+	ParticipantFontColor #A9DCDF
+
+	ActorBackgroundColor aqua
+	ActorFontColor DeepSkyBlue
+	ActorFontSize 17
+	ActorFontName Aapex
+}
+
+
+participant Gallery
+participant AlbumPage
+participant GLRootView
+participant SlotView
+participant AlbumSlotRenderer
+
+database AlbumDataLoader
+participant AlbumSlidingWindow
+participant BitmapLoader
+
+participant ReloadTask
+
+title Gallery onResume
+
+[-> Gallery: onResume
+Gallery -> GLRootView: lockRenderThread
+Gallery -> AlbumPage: resume
+group AlbumPage.onResume
+    AlbumPage -> GLRootView: addComponent
+    note right : 添加到渲染组件
+
+
+    AlbumPage -> AlbumDataLoader: resume;
+    AlbumDataLoader --> ReloadTask: start
+    AlbumPage -> AlbumSlotRenderer: resume();
+
+    AlbumSlotRenderer -> AlbumSlidingWindow: resume
+    group AlbumSlidingWindow.onResume
+        loop i : mContentStart~ mContentEnd
+            AlbumSlidingWindow -> AlbumSlidingWindow:prepareSlotContent(i)
+        end
+
+        group AlbumSlidingWindow.updateAllImageRequests
+            loop i : mActiveStart~mActiveEnd
+                group requestSlotImage(i)
+                    AlbumSlidingWindow-> BitmapLoader: startLoad
+                    AlbumSlidingWindow-> BitmapLoader: isRequestInProgress
+                end
+            end
+
+            alt mActiveRequestCount == 0
+                group requestNonactiveImages
+                    loop i: 0~max((mContentEnd - mActiveEnd),(mActiveStart - mContentStart))
+                        group requestSlotImage(mActiveEnd + i)
+                            AlbumSlidingWindow-> BitmapLoader: startLoad
+                            AlbumSlidingWindow-> BitmapLoader: isRequestInProgress
+                        end
+                        group requestSlotImage(mActiveStart - 1 - i)
+                            AlbumSlidingWindow-> BitmapLoader: startLoad
+                            AlbumSlidingWindow-> BitmapLoader: isRequestInProgress
+                        end
+                    end
+                end
+            else mActiveRequestCount != 0
+                group cancelNonactiveImages
+                    loop i: 0~max((mContentEnd - mActiveEnd),(mActiveStart - mContentStart))
+                         group requestSlotImage(mActiveEnd + i)
+                            AlbumSlidingWindow-> BitmapLoader: cancelLoad
+                         end
+                         group requestSlotImage(mActiveStart - 1 - i)
+                            AlbumSlidingWindow-> BitmapLoader: cancelLoad
+                         end
+                    end
+                end
+            end
+        end
+    end
+
+
+    AlbumPage -> AlbumSlotRenderer: setPressedIndex(-1);
+    note right: 恢复点击态
+    AlbumSlotRenderer -> SlotView: invalidate
+    SlotView -> GLRootView: requestRender
+    AlbumPage -> ActionModeHandler: resume();
+    ActionModeHandler -> ActionModeHandler: updateSupportedOperation
+    AlbumPage -> SlotView: resume();
+    SlotView -> PhotoFallbackEffect: start
+    note right: 非主线逻辑
+
+
+    group AlbumPage.onResume->onCreateTopBar
+        AlbumPage -> SlotView: setCompensation(false, 0)
+        SlotView -> SlotSelectMgr: setCompensation
+        SlotView -> SlotViewPosition: setCompensation
+        SlotView -> SlotScrollBar: setCompensation
+        SlotView -> SlotScrollBar: setScrollLimit
+        AlbumPage -> TopBar: switchTab
+        TopBar -> TabPageState: switchTab
+    end
+end
+
+
+
+
+Gallery -> GLRootView: unlockRenderThread
+Gallery -> GLRootView: onResume
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@enduml
+
+
