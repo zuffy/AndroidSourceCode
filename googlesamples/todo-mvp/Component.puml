@@ -1,0 +1,73 @@
+package
+node
+folder
+frame
+cloud
+database
+
+@startuml
+title Todo mvp
+node "TaskActivity" {
+  [DrawerLayout]
+  [tasksPresenter] -> TasksPresenter
+  note right of tasksPresenter:  定义 tasksPresenter
+}
+
+note left of TaskActivity: start
+
+node "TasksPresenter" {
+    [mTasksView] --> TasksFragment: 刷新ui
+    [mTasksRepository]
+    [mTasksRepository] -> [mTasksView]
+}
+
+
+node "TasksFragment" {
+    mListAdapter -> [listView]
+    mPresenter --> TasksPresenter : 各种操作逻辑
+}
+
+database "TasksRepository" {
+    [mCachedTasks]
+    [mTasksLocalDataSource]
+    [mTasksRemoteDataSource]
+}
+
+mTasksRepository <- mCachedTasks
+mCachedTasks <-- mTasksLocalDataSource
+mTasksLocalDataSource <-- mTasksRemoteDataSource
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@enduml
