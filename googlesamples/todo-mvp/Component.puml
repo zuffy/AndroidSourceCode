@@ -7,39 +7,41 @@ database
 
 @startuml
 title Todo mvp
-node "TaskActivity" {
-  [DrawerLayout]
-  [tasksPresenter] -> TasksPresenter
-  note right of tasksPresenter:  定义 tasksPresenter
-}
+package "TaskActivity" {
+    [DrawerLayout]
+    [tasksPresenter] -> TasksPresenter
+    note right of tasksPresenter:  定义 tasksPresenter
 
-note left of TaskActivity: start
-
-node "TasksPresenter" {
+    node "TasksPresenter" {
     [mTasksView] --> TasksFragment: 刷新ui
     [mTasksRepository]
     [mTasksRepository] -> [mTasksView]
-}
+    }
 
 
-node "TasksFragment" {
+    node "TasksFragment" {
     mListAdapter -> [listView]
-    mPresenter --> TasksPresenter : 各种操作逻辑
-}
+    mPresenter --> TasksPresenter : 各种用户操作
+    }
 
-database "TasksRepository" {
+    database "TasksRepository" {
     [mCachedTasks]
     [mTasksLocalDataSource]
     [mTasksRemoteDataSource]
+    }
+
+    mTasksRepository <- mCachedTasks
+    mCachedTasks <-- mTasksLocalDataSource
+    mTasksLocalDataSource <-- mTasksRemoteDataSource
 }
 
-mTasksRepository <- mCachedTasks
-mCachedTasks <-- mTasksLocalDataSource
-mTasksLocalDataSource <-- mTasksRemoteDataSource
 
+note left of TaskActivity:  all tasks
 
+newpage
+package "StatisticsActivity" {
 
-
+}
 
 
 
