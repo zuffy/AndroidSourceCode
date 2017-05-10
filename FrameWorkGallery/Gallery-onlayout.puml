@@ -32,6 +32,7 @@ skinparam sequence {
 
 participant AlbumPage
 participant GLRootView
+participant GLView
 participant SlotView
 
 
@@ -44,6 +45,9 @@ AlbumPage -> GLRootView: addComponent
 note right : GLRootView.mComponents.push(AlbumPage.mRootPane);
 GLRootView -> GLRootView: requestLayoutContentPane
 note left : 基本没干嘛;
+
+AlbumPage -> AlbumDataLoader: resume
+AlbumDataLoader -> ReloadTask: start
 
 == layout ==
 [-> GLRootView: onLayout
@@ -71,13 +75,13 @@ GLRootView -> UploadedTexture : resetUploadLimit
 
 alt GLRootView mFlags NEED_LAYOUT
     group GLRootView.onDrawFrameLocked -> layoutContentPane
-        GLRootView -> AlbumPage: onLayout
+        GLRootView -> GLView: onLayout
         note left: GLRootView.mComponents(GLView).layout->onLayout
 
-        AlbumPage -> SlotView: onLayout
+        GLView -> SlotView: onLayout
         note left: SlotView.layout->onLayout
 
-        AlbumPage -> GalleryUtils : setViewPointMatrix
+        GLView -> GalleryUtils : setViewPointMatrix
     end
 end
 
@@ -99,7 +103,7 @@ alt
 end
 
 ...
-== onSurfaceCreated ==
+== draw ==
 
 
 
