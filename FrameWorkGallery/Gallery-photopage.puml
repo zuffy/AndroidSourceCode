@@ -1,0 +1,157 @@
+/*
+participant
+actor
+boundary
+control
+entity
+database
+*/
+
+@startuml
+
+skinparam backgroundColor #EEEBDC
+skinparam handwritten true
+skinparam sequence {
+	ArrowColor DeepSkyBlue
+	ActorBorderColor DeepSkyBlue
+	LifeLineBorderColor blue
+	LifeLineBackgroundColor #A9DCDF
+
+	ParticipantBorderColor DeepSkyBlue
+	ParticipantBackgroundColor DodgerBlue
+	ParticipantFontName Impact
+	ParticipantFontSize 17
+	ParticipantFontColor #A9DCDF
+
+	ActorBackgroundColor aqua
+	ActorFontColor DeepSkyBlue
+	ActorFontSize 17
+	ActorFontName Aapex
+}
+
+participant PhotoPage
+participant PhotoView
+
+title PhotoPage 渲染流程
+== onCreate ==
+activate PhotoPage
+[-> PhotoPage: onCreate
+
+activate PhotoView
+PhotoPage -> PhotoView : setModel
+PhotoPage -> PhotoView : setFilmMode
+
+== onResume ==
+
+PhotoPage -> PhotoDataAdapter : resume
+group PhotoDataAdapter -> resume
+    PhotoDataAdapter -> TiledTexture: prepareResources
+    note left: 只有ScreenNail和 mpo 用到
+
+    PhotoDataAdapter -> PhotoDataAdapter: updateImageCache
+    group PhotoDataAdapter -> updateImageCache
+        PhotoDataAdapter -> PhotoDataAdapter: updateScreenNailUploadQueue
+        group PhotoDataAdapter -> updateScreenNailUploadQueue
+            PhotoDataAdapter -> PhotoDataAdapter: uploadScreenNail
+        end
+    end
+
+    PhotoDataAdapter -> PhotoDataAdapter: updateTileProvider
+    group PhotoDataAdapter -> updateTileProvider
+        PhotoDataAdapter -> TileImageViewAdapter: setScreenNail
+    end
+    PhotoDataAdapter -> PhotoDataAdapter: updateImageRequests
+    group PhotoDataAdapter -> updateImageRequests
+        PhotoDataAdapter -> PhotoDataAdapter: startTaskIfNeeded
+    end
+
+    PhotoDataAdapter -> ReloadTask: start
+    PhotoDataAdapter -> PhotoDataAdapter: fireDataChange
+    PhotoDataAdapter -> PhotoView: notifyDataChange
+
+end
+
+PhotoPage -> PhotoView : resume
+PhotoView -> TileImageView: prepareTextures
+PhotoView -> PhotoDataAdapter: getScreenNail
+
+PhotoPage -> PhotoPage : refreshBottomControlsWhenReady
+PhotoPage --> GLRootView : unfreeze
+PhotoPage -> PhotoPage : onCreateTopBar
+PhotoPage -> PhotoPage : initAutoRotate
+
+
+== onLayout ==
+PhotoPage -> PhotoView : onLayout
+note right: PhotoView.layout -> onLayout
+
+
+
+deactivate PhotoPage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@enduml
+
+

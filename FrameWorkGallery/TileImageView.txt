@@ -1,0 +1,1638 @@
+05-23 22:06:35.387 1754-1754/com.android.gallery3d D/TileImageView: TileImageView
+05-23 22:06:35.407 1754-1754/com.android.gallery3d D/TileImageView: setModel:com.android.gallery3d.app.PhotoDataAdapter@e972c4
+05-23 22:06:35.408 1754-1754/com.android.gallery3d D/TileImageView: notifyModelInvalidated mModel:com.android.gallery3d.app.PhotoDataAdapter@e972c4
+05-23 22:06:35.408 1754-1754/com.android.gallery3d D/TileImageView:  invalidateTiles size:0
+05-23 22:06:35.408 1754-1754/com.android.gallery3d D/TileImageView: setScreenNail:null
+05-23 22:06:35.408 1754-1754/com.android.gallery3d D/TileImageView: layoutTiles width:0 height:0 centerX:0 centerY:0 scale:0.0 rotation:0
+05-23 22:06:35.408 1754-1754/com.android.gallery3d D/TileImageView: layoutTiles mLevel:0 Utils.floorLog2(1f / scale):30 mLevelCount:0
+05-23 22:06:35.408 1754-1754/com.android.gallery3d D/TileImageView: layoutTiles fromLevel:0 endLevel:0 mLevelCount:0
+05-23 22:06:35.430 1754-1754/com.android.gallery3d D/TileImageView: prepareTextures mIsTextureFreed:false
+05-23 22:06:35.430 1754-1754/com.android.gallery3d D/TileImageView: setScreenNail:null
+05-23 22:06:35.460 1754-1754/com.android.gallery3d D/TileImageView: notifyModelInvalidated mModel:com.android.gallery3d.app.PhotoDataAdapter@e972c4
+05-23 22:06:35.461 1754-1754/com.android.gallery3d D/TileImageView:  invalidateTiles size:0
+05-23 22:06:35.465 1754-1754/com.android.gallery3d D/TileImageView: setScreenNail:com.android.gallery3d.ui.TiledScreenNail@2062ccf
+05-23 22:06:35.465 1754-1754/com.android.gallery3d D/TileImageView: layoutTiles width:0 height:0 centerX:0 centerY:0 scale:0.0 rotation:0
+05-23 22:06:35.465 1754-1754/com.android.gallery3d D/TileImageView: layoutTiles mLevel:0 Utils.floorLog2(1f / scale):30 mLevelCount:0
+05-23 22:06:35.465 1754-1754/com.android.gallery3d D/TileImageView: layoutTiles fromLevel:0 endLevel:0 mLevelCount:0
+05-23 22:06:35.465 1754-1754/com.android.gallery3d D/TileImageView: setScreenNail:com.android.gallery3d.ui.TiledScreenNail@2062ccf
+05-23 22:06:35.685 1754-1782/com.android.gallery3d D/TileImageView: onLayout changeSize：true
+05-23 22:06:35.685 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles width:1080 height:1920 centerX:0 centerY:0 scale:0.0 rotation:0
+05-23 22:06:35.685 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mLevel:0 Utils.floorLog2(1f / scale):30 mLevelCount:0
+05-23 22:06:35.685 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles fromLevel:0 endLevel:0 mLevelCount:0
+05-23 22:06:35.687 1754-1782/com.android.gallery3d D/TileImageView: setRotation centerX:600.0 centerY:600.0 rotation:0.0
+05-23 22:06:35.687 1754-1782/com.android.gallery3d D/TileImageView: setPosition centerX:468 centerY:624 scale:1.1538461 rotation:0 rect:Rect(0, 240 - 1080, 1680)
+05-23 22:06:35.687 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles width:1080 height:1920 centerX:468 centerY:624 scale:1.1538461 rotation:0
+05-23 22:06:35.687 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles wdiff:0.0 hdiff:240.0 progress:0.0 mRect.w1080 mRect.h:1440
+05-23 22:06:35.687 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mLevel:0 Utils.floorLog2(1f / scale):-1 mLevelCount:0
+05-23 22:06:35.687 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles fromLevel:0 endLevel:0 mLevelCount:0
+05-23 22:06:35.687 1754-1782/com.android.gallery3d D/TileImageView: render start ======================== ======================== ======================== ========================
+05-23 22:06:35.700 1754-1782/com.android.gallery3d D/TileImageView: render end *************** *************** *************** *************** *************** ***************
+05-23 22:06:35.710 1754-1782/com.android.gallery3d D/TileImageView: setRotation centerX:600.0 centerY:600.0 rotation:0.0
+05-23 22:06:35.710 1754-1782/com.android.gallery3d D/TileImageView: setPosition centerX:468 centerY:624 scale:1.1538461 rotation:0 rect:Rect(0, 240 - 1080, 1680)
+05-23 22:06:35.710 1754-1782/com.android.gallery3d D/TileImageView: render start ======================== ======================== ======================== ========================
+05-23 22:06:35.710 1754-1782/com.android.gallery3d D/TileImageView: render end *************** *************** *************** *************** *************** ***************
+05-23 22:06:35.764 1754-1782/com.android.gallery3d D/TileImageView: setRotation centerX:600.0 centerY:600.0 rotation:0.0
+05-23 22:06:35.765 1754-1782/com.android.gallery3d D/TileImageView: setPosition centerX:468 centerY:624 scale:1.1538461 rotation:0 rect:Rect(0, 240 - 1080, 1680)
+05-23 22:06:35.765 1754-1782/com.android.gallery3d D/TileImageView: render start ======================== ======================== ======================== ========================
+05-23 22:06:35.765 1754-1782/com.android.gallery3d D/TileImageView: render end *************** *************** *************** *************** *************** ***************
+05-23 22:06:35.814 1754-1782/com.android.gallery3d D/TileImageView: setRotation centerX:600.0 centerY:600.0 rotation:0.0
+05-23 22:06:35.815 1754-1782/com.android.gallery3d D/TileImageView: setPosition centerX:468 centerY:624 scale:1.1538461 rotation:0 rect:Rect(0, 240 - 1080, 1680)
+05-23 22:06:35.815 1754-1782/com.android.gallery3d D/TileImageView: render start ======================== ======================== ======================== ========================
+05-23 22:06:35.815 1754-1782/com.android.gallery3d D/TileImageView: render end *************** *************** *************** *************** *************** ***************
+05-23 22:06:35.866 1754-1782/com.android.gallery3d D/TileImageView: setRotation centerX:600.0 centerY:600.0 rotation:0.0
+05-23 22:06:35.866 1754-1782/com.android.gallery3d D/TileImageView: setPosition centerX:468 centerY:624 scale:1.1538461 rotation:0 rect:Rect(0, 240 - 1080, 1680)
+05-23 22:06:35.866 1754-1782/com.android.gallery3d D/TileImageView: render start ======================== ======================== ======================== ========================
+05-23 22:06:35.867 1754-1782/com.android.gallery3d D/TileImageView: render end *************** *************** *************** *************** *************** ***************
+05-23 22:06:35.888 1754-1754/com.android.gallery3d D/TileImageView: notifyModelInvalidated mModel:com.android.gallery3d.app.PhotoDataAdapter@e972c4
+05-23 22:06:35.888 1754-1754/com.android.gallery3d D/TileImageView:  invalidateTiles size:0
+05-23 22:06:35.888 1754-1754/com.android.gallery3d D/TileImageView: setScreenNail:com.android.gallery3d.ui.TiledScreenNail@2062ccf
+05-23 22:06:35.888 1754-1754/com.android.gallery3d D/TileImageView: layoutTiles width:1080 height:1920 centerX:468 centerY:624 scale:1.1538461 rotation:0
+05-23 22:06:35.888 1754-1754/com.android.gallery3d D/TileImageView: layoutTiles wdiff:0.0 hdiff:240.0 progress:0.0 mRect.w1080 mRect.h:1440
+05-23 22:06:35.888 1754-1754/com.android.gallery3d D/TileImageView: layoutTiles mLevel:0 Utils.floorLog2(1f / scale):-1 mLevelCount:2
+05-23 22:06:35.889 1754-1754/com.android.gallery3d D/TileImageView: getRange cX:468 cY:624 level:0 rotation:0 mImageWidth:3072 mImageHeight:4096
+05-23 22:06:35.889 1754-1754/com.android.gallery3d D/TileImageView: getRange w:1080.0 h:1920.0 width:1080 height:1920 radians:0.0 scale:1.1538461 mAngle:0.0 mProgress:0.0
+05-23 22:06:35.889 1754-1754/com.android.gallery3d D/TileImageView: getRange w:1080.0 h:1920.0 left:0 top:0 right:936 bottom:1456 size:254
+05-23 22:06:35.889 1754-1754/com.android.gallery3d D/TileImageView: layoutTiles fromLevel:0 endLevel:2 mLevelCount:2
+05-23 22:06:35.889 1754-1754/com.android.gallery3d D/TileImageView: getRange cX:468 cY:624 level:0 rotation:0 mImageWidth:3072 mImageHeight:4096
+05-23 22:06:35.889 1754-1754/com.android.gallery3d D/TileImageView: getRange w:1080.0 h:1920.0 width:1080 height:1920 radians:0.0 scale:0.5 mAngle:0.0 mProgress:0.0
+05-23 22:06:35.889 1754-1754/com.android.gallery3d D/TileImageView: getRange w:1080.0 h:1920.0 left:0 top:0 right:1548 bottom:2544 size:254
+05-23 22:06:35.889 1754-1754/com.android.gallery3d D/TileImageView: getRange mLevel:0 r:[0,0,1548,2544
+05-23 22:06:35.889 1754-1754/com.android.gallery3d D/TileImageView: getRange cX:468 cY:624 level:1 rotation:0 mImageWidth:3072 mImageHeight:4096
+05-23 22:06:35.889 1754-1754/com.android.gallery3d D/TileImageView: getRange w:1080.0 h:1920.0 width:1080 height:1920 radians:0.0 scale:0.25 mAngle:0.0 mProgress:0.0
+05-23 22:06:35.889 1754-1754/com.android.gallery3d D/TileImageView: getRange w:1080.0 h:1920.0 left:0 top:0 right:2628 bottom:4096 size:508
+05-23 22:06:35.889 1754-1754/com.android.gallery3d D/TileImageView: getRange mLevel:1 r:[0,0,2628,4096
+05-23 22:06:35.889 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:0 level:0 key:0
+05-23 22:06:35.890 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:254 y:0 level:0 key:1090921693184
+05-23 22:06:35.890 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:0 level:0 key:2181843386368
+05-23 22:06:35.890 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:762 y:0 level:0 key:3272765079552
+05-23 22:06:35.890 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:0 level:0 key:4363686772736
+05-23 22:06:35.890 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:0 level:0 key:5454608465920
+05-23 22:06:35.890 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:0 level:0 key:6545530159104
+05-23 22:06:35.890 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:254 level:0 key:16646144
+05-23 22:06:35.890 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:254 y:254 level:0 key:1090938339328
+05-23 22:06:35.890 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:254 level:0 key:2181860032512
+05-23 22:06:35.890 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:762 y:254 level:0 key:3272781725696
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:254 level:0 key:4363703418880
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:254 level:0 key:5454625112064
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:254 level:0 key:6545546805248
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:508 level:0 key:33292288
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:254 y:508 level:0 key:1090954985472
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:508 level:0 key:2181876678656
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:762 y:508 level:0 key:3272798371840
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:508 level:0 key:4363720065024
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:508 level:0 key:5454641758208
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:508 level:0 key:6545563451392
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:762 level:0 key:49938432
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:254 y:762 level:0 key:1090971631616
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:762 level:0 key:2181893324800
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:762 y:762 level:0 key:3272815017984
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:762 level:0 key:4363736711168
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:762 level:0 key:5454658404352
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:762 level:0 key:6545580097536
+05-23 22:06:35.891 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:1016 level:0 key:66584576
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:254 y:1016 level:0 key:1090988277760
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:1016 level:0 key:2181909970944
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:762 y:1016 level:0 key:3272831664128
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:1016 level:0 key:4363753357312
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:1016 level:0 key:5454675050496
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:1016 level:0 key:6545596743680
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:1270 level:0 key:83230720
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:254 y:1270 level:0 key:1091004923904
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:1270 level:0 key:2181926617088
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:762 y:1270 level:0 key:3272848310272
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:1270 level:0 key:4363770003456
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:1270 level:0 key:5454691696640
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:1270 level:0 key:6545613389824
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:1524 level:0 key:99876864
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:254 y:1524 level:0 key:1091021570048
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:1524 level:0 key:2181943263232
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:762 y:1524 level:0 key:3272864956416
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:1524 level:0 key:4363786649600
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:1524 level:0 key:5454708342784
+05-23 22:06:35.892 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:1524 level:0 key:6545630035968
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:1778 level:0 key:116523008
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:254 y:1778 level:0 key:1091038216192
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:1778 level:0 key:2181959909376
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:762 y:1778 level:0 key:3272881602560
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:1778 level:0 key:4363803295744
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:1778 level:0 key:5454724988928
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:1778 level:0 key:6545646682112
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:2032 level:0 key:133169152
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:254 y:2032 level:0 key:1091054862336
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:2032 level:0 key:2181976555520
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:762 y:2032 level:0 key:3272898248704
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:2032 level:0 key:4363819941888
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:2032 level:0 key:5454741635072
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:2032 level:0 key:6545663328256
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:2286 level:0 key:149815296
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:254 y:2286 level:0 key:1091071508480
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:2286 level:0 key:2181993201664
+05-23 22:06:35.893 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:762 y:2286 level:0 key:3272914894848
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:2286 level:0 key:4363836588032
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:2286 level:0 key:5454758281216
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:2286 level:0 key:6545679974400
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:2540 level:0 key:166461440
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:254 y:2540 level:0 key:1091088154624
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:2540 level:0 key:2182009847808
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:762 y:2540 level:0 key:3272931540992
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:2540 level:0 key:4363853234176
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:2540 level:0 key:5454774927360
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:2540 level:0 key:6545696620544
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:0 level:1 key:1
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:0 level:1 key:2181843386369
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:0 level:1 key:4363686772737
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:0 level:1 key:6545530159105
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:0 level:1 key:8727373545473
+05-23 22:06:35.894 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:0 level:1 key:10909216931841
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:508 level:1 key:33292289
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:508 level:1 key:2181876678657
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:508 level:1 key:4363720065025
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:508 level:1 key:6545563451393
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:508 level:1 key:8727406837761
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:508 level:1 key:10909250224129
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:1016 level:1 key:66584577
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:1016 level:1 key:2181909970945
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:1016 level:1 key:4363753357313
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:1016 level:1 key:6545596743681
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:1016 level:1 key:8727440130049
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:1016 level:1 key:10909283516417
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:1524 level:1 key:99876865
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:1524 level:1 key:2181943263233
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:1524 level:1 key:4363786649601
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:1524 level:1 key:6545630035969
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:1524 level:1 key:8727473422337
+05-23 22:06:35.895 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:1524 level:1 key:10909316808705
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:2032 level:1 key:133169153
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:2032 level:1 key:2181976555521
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:2032 level:1 key:4363819941889
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:2032 level:1 key:6545663328257
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:2032 level:1 key:8727506714625
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:2032 level:1 key:10909350100993
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:2540 level:1 key:166461441
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:2540 level:1 key:2182009847809
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:2540 level:1 key:4363853234177
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:2540 level:1 key:6545696620545
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:2540 level:1 key:8727540006913
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:2540 level:1 key:10909383393281
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:3048 level:1 key:199753729
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:3048 level:1 key:2182043140097
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:3048 level:1 key:4363886526465
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:3048 level:1 key:6545729912833
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:3048 level:1 key:8727573299201
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:3048 level:1 key:10909416685569
+05-23 22:06:35.896 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:3556 level:1 key:233046017
+05-23 22:06:35.897 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:3556 level:1 key:2182076432385
+05-23 22:06:35.897 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:3556 level:1 key:4363919818753
+05-23 22:06:35.897 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:3556 level:1 key:6545763205121
+05-23 22:06:35.897 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:3556 level:1 key:8727606591489
+05-23 22:06:35.897 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:3556 level:1 key:10909449977857
+05-23 22:06:35.897 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:0 y:4064 level:1 key:266338305
+05-23 22:06:35.897 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:508 y:4064 level:1 key:2182109724673
+05-23 22:06:35.897 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:4064 level:1 key:4363953111041
+05-23 22:06:35.897 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:4064 level:1 key:6545796497409
+05-23 22:06:35.897 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:4064 level:1 key:8727639883777
+05-23 22:06:35.897 1754-1754/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:4064 level:1 key:10909483270145
+05-23 22:06:35.897 1754-1754/com.android.gallery3d D/TileImageView: setScreenNail:com.android.gallery3d.ui.TiledScreenNail@2062ccf
+05-23 22:06:35.905 1754-1782/com.android.gallery3d D/TileImageView: setRotation centerX:600.0 centerY:600.0 rotation:0.0
+05-23 22:06:35.905 1754-1782/com.android.gallery3d D/TileImageView: setPosition centerX:1536 centerY:2048 scale:0.3515625 rotation:0 rect:Rect(0, 240 - 1080, 1680)
+05-23 22:06:35.905 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles width:1080 height:1920 centerX:1536 centerY:2048 scale:0.3515625 rotation:0
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles wdiff:0.0 hdiff:240.0 progress:0.0 mRect.w1080 mRect.h:1440
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mLevel:1 Utils.floorLog2(1f / scale):1 mLevelCount:2
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: getRange cX:1536 cY:2048 level:1 rotation:0 mImageWidth:3072 mImageHeight:4096
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: getRange w:1080.0 h:1920.0 width:1080 height:1920 radians:0.0 scale:0.3515625 mAngle:0.0 mProgress:0.0
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: getRange w:1080.0 h:1920.0 left:0 top:0 right:3072 bottom:4096 size:508
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles fromLevel:0 endLevel:2 mLevelCount:2
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: getRange cX:1536 cY:2048 level:0 rotation:0 mImageWidth:3072 mImageHeight:4096
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: getRange w:1080.0 h:1920.0 width:1080 height:1920 radians:0.0 scale:0.5 mAngle:0.0 mProgress:0.0
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: getRange w:1080.0 h:1920.0 left:254 top:0 right:2616 bottom:3968 size:254
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: getRange mLevel:0 r:[254,0,2616,3968
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: getRange cX:1536 cY:2048 level:1 rotation:0 mImageWidth:3072 mImageHeight:4096
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: getRange w:1080.0 h:1920.0 width:1080 height:1920 radians:0.0 scale:0.25 mAngle:0.0 mProgress:0.0
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: getRange w:1080.0 h:1920.0 left:0 top:0 right:3072 bottom:4096 size:508
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: getRange mLevel:1 r:[0,0,3072,4096
+05-23 22:06:35.906 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(0, 0):true
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(0, 0):false
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(0, 254):true
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(0, 508):true
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(0, 508):false
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(0, 762):true
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(0, 1016):true
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(0, 1016):false
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(0, 1270):true
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(0, 1524):true
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(0, 1524):false
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(0, 1778):true
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(0, 2032):true
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(0, 2032):false
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(0, 2286):true
+05-23 22:06:35.907 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(0, 2540):true
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(0, 2540):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(0, 3048):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(0, 3556):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(0, 4064):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(254, 0):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(254, 254):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(254, 508):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(254, 762):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(254, 1016):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(254, 1270):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(254, 1524):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(254, 1778):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(254, 2032):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(254, 2286):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(254, 2540):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(508, 0):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(508, 0):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(508, 254):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(508, 508):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(508, 508):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(508, 762):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(508, 1016):false
+05-23 22:06:35.908 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(508, 1016):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(508, 1270):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(508, 1524):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(508, 1524):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(508, 1778):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(508, 2032):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(508, 2032):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(508, 2286):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(508, 2540):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(508, 2540):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(508, 3048):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(508, 3556):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(508, 4064):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(762, 0):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(762, 254):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(762, 508):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(762, 762):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(762, 1016):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(762, 1270):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(762, 1524):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(762, 1778):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(762, 2032):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(762, 2286):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(762, 2540):false
+05-23 22:06:35.909 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1016, 0):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1016, 0):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1016, 254):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1016, 508):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1016, 508):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1016, 762):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1016, 1016):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1016, 1016):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1016, 1270):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1016, 1524):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1016, 1524):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1016, 1778):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1016, 2032):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1016, 2032):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1016, 2286):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1016, 2540):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1016, 2540):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1016, 3048):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1016, 3556):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1016, 4064):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1270, 0):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1270, 254):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1270, 508):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1270, 762):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1270, 1016):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1270, 1270):false
+05-23 22:06:35.910 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1270, 1524):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1270, 1778):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1270, 2032):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1270, 2286):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1270, 2540):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1524, 0):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1524, 0):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1524, 254):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1524, 508):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1524, 508):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1524, 762):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1524, 1016):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1524, 1016):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1524, 1270):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1524, 1524):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1524, 1524):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1524, 1778):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1524, 2032):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1524, 2032):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1524, 2286):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:0 !range[0].contains(1524, 2540):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1524, 2540):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1524, 3048):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1524, 3556):false
+05-23 22:06:35.911 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(1524, 4064):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2032, 0):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2032, 508):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2032, 1016):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2032, 1524):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2032, 2032):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2032, 2540):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2032, 3048):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2032, 3556):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2032, 4064):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2540, 0):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2540, 508):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2540, 1016):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2540, 1524):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2540, 2032):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2540, 2540):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2540, 3048):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2540, 3556):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView: layoutTiles mTileLevel:1 !range[1].contains(2540, 4064):false
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:0 level:0 key:1090921693184
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:0 level:0 key:2181843386368
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:0 level:0 key:3272765079552
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:0 level:0 key:4363686772736
+05-23 22:06:35.912 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:0 level:0 key:5454608465920
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:0 level:0 key:6545530159104
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:0 level:0 key:7636451852288
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:0 level:0 key:8727373545472
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:0 level:0 key:9818295238656
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:0 level:0 key:10909216931840
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:254 level:0 key:1090938339328
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:254 level:0 key:2181860032512
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:254 level:0 key:3272781725696
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:254 level:0 key:4363703418880
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:254 level:0 key:5454625112064
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:254 level:0 key:6545546805248
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:254 level:0 key:7636468498432
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:254 level:0 key:8727390191616
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:254 level:0 key:9818311884800
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:254 level:0 key:10909233577984
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:508 level:0 key:1090954985472
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:508 level:0 key:2181876678656
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:508 level:0 key:3272798371840
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:508 level:0 key:4363720065024
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:508 level:0 key:5454641758208
+05-23 22:06:35.913 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:508 level:0 key:6545563451392
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:508 level:0 key:7636485144576
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:508 level:0 key:8727406837760
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:508 level:0 key:9818328530944
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:508 level:0 key:10909250224128
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:762 level:0 key:1090971631616
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:762 level:0 key:2181893324800
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:762 level:0 key:3272815017984
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:762 level:0 key:4363736711168
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:762 level:0 key:5454658404352
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:762 level:0 key:6545580097536
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:762 level:0 key:7636501790720
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:762 level:0 key:8727423483904
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:762 level:0 key:9818345177088
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:762 level:0 key:10909266870272
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:1016 level:0 key:1090988277760
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:1016 level:0 key:2181909970944
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:1016 level:0 key:3272831664128
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:1016 level:0 key:4363753357312
+05-23 22:06:35.914 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:1016 level:0 key:5454675050496
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:1016 level:0 key:6545596743680
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:1016 level:0 key:7636518436864
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:1016 level:0 key:8727440130048
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:1016 level:0 key:9818361823232
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:1016 level:0 key:10909283516416
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:1270 level:0 key:1091004923904
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:1270 level:0 key:2181926617088
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:1270 level:0 key:3272848310272
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:1270 level:0 key:4363770003456
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:1270 level:0 key:5454691696640
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:1270 level:0 key:6545613389824
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:1270 level:0 key:7636535083008
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:1270 level:0 key:8727456776192
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:1270 level:0 key:9818378469376
+05-23 22:06:35.915 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:1270 level:0 key:10909300162560
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:1524 level:0 key:1091021570048
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:1524 level:0 key:2181943263232
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:1524 level:0 key:3272864956416
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:1524 level:0 key:4363786649600
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:1524 level:0 key:5454708342784
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:1524 level:0 key:6545630035968
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:1524 level:0 key:7636551729152
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:1524 level:0 key:8727473422336
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:1524 level:0 key:9818395115520
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:1524 level:0 key:10909316808704
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:1778 level:0 key:1091038216192
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:1778 level:0 key:2181959909376
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:1778 level:0 key:3272881602560
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:1778 level:0 key:4363803295744
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:1778 level:0 key:5454724988928
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:1778 level:0 key:6545646682112
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:1778 level:0 key:7636568375296
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:1778 level:0 key:8727490068480
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:1778 level:0 key:9818411761664
+05-23 22:06:35.916 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:1778 level:0 key:10909333454848
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:2032 level:0 key:1091054862336
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:2032 level:0 key:2181976555520
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:2032 level:0 key:3272898248704
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:2032 level:0 key:4363819941888
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:2032 level:0 key:5454741635072
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:2032 level:0 key:6545663328256
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:2032 level:0 key:7636585021440
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:2032 level:0 key:8727506714624
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:2032 level:0 key:9818428407808
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:2032 level:0 key:10909350100992
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:2286 level:0 key:1091071508480
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:2286 level:0 key:2181993201664
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:2286 level:0 key:3272914894848
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:2286 level:0 key:4363836588032
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:2286 level:0 key:5454758281216
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:2286 level:0 key:6545679974400
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:2286 level:0 key:7636601667584
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:2286 level:0 key:8727523360768
+05-23 22:06:35.917 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:2286 level:0 key:9818445053952
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:2286 level:0 key:10909366747136
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:2540 level:0 key:1091088154624
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:2540 level:0 key:2182009847808
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:2540 level:0 key:3272931540992
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:2540 level:0 key:4363853234176
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:2540 level:0 key:5454774927360
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:2540 level:0 key:6545696620544
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:2540 level:0 key:7636618313728
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:2540 level:0 key:8727540006912
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:2540 level:0 key:9818461700096
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:2540 level:0 key:10909383393280
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:2794 level:0 key:1091104800768
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:2794 level:0 key:2182026493952
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:2794 level:0 key:3272948187136
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:2794 level:0 key:4363869880320
+05-23 22:06:35.918 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:2794 level:0 key:5454791573504
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:2794 level:0 key:6545713266688
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:2794 level:0 key:7636634959872
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:2794 level:0 key:8727556653056
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:2794 level:0 key:9818478346240
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:2794 level:0 key:10909400039424
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:3048 level:0 key:1091121446912
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:3048 level:0 key:2182043140096
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:3048 level:0 key:3272964833280
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:3048 level:0 key:4363886526464
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:3048 level:0 key:5454808219648
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:3048 level:0 key:6545729912832
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:3048 level:0 key:7636651606016
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:3048 level:0 key:8727573299200
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:3048 level:0 key:9818494992384
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:3048 level:0 key:10909416685568
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:3302 level:0 key:1091138093056
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:3302 level:0 key:2182059786240
+05-23 22:06:35.919 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:3302 level:0 key:3272981479424
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:3302 level:0 key:4363903172608
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:3302 level:0 key:5454824865792
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:3302 level:0 key:6545746558976
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:3302 level:0 key:7636668252160
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:3302 level:0 key:8727589945344
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:3302 level:0 key:9818511638528
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:3302 level:0 key:10909433331712
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:3556 level:0 key:1091154739200
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:3556 level:0 key:2182076432384
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:3556 level:0 key:3272998125568
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:3556 level:0 key:4363919818752
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:3556 level:0 key:5454841511936
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:3556 level:0 key:6545763205120
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:3556 level:0 key:7636684898304
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:3556 level:0 key:8727606591488
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:3556 level:0 key:9818528284672
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:3556 level:0 key:10909449977856
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:254 y:3810 level:0 key:1091171385344
+05-23 22:06:35.920 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:3810 level:0 key:2182093078528
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:762 y:3810 level:0 key:3273014771712
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:3810 level:0 key:4363936464896
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1270 y:3810 level:0 key:5454858158080
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:3810 level:0 key:6545779851264
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1778 y:3810 level:0 key:7636701544448
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:3810 level:0 key:8727623237632
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2286 y:3810 level:0 key:9818544930816
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:3810 level:0 key:10909466624000
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:0 y:0 level:1 key:1
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:0 level:1 key:2181843386369
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:0 level:1 key:4363686772737
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:0 level:1 key:6545530159105
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:0 level:1 key:8727373545473
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:0 level:1 key:10909216931841
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:3048 y:0 level:1 key:13091060318209
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:0 y:508 level:1 key:33292289
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:508 level:1 key:2181876678657
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:508 level:1 key:4363720065025
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:508 level:1 key:6545563451393
+05-23 22:06:35.921 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:508 level:1 key:8727406837761
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:508 level:1 key:10909250224129
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:3048 y:508 level:1 key:13091093610497
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:0 y:1016 level:1 key:66584577
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:1016 level:1 key:2181909970945
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:1016 level:1 key:4363753357313
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:1016 level:1 key:6545596743681
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:1016 level:1 key:8727440130049
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:1016 level:1 key:10909283516417
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:3048 y:1016 level:1 key:13091126902785
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:0 y:1524 level:1 key:99876865
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:1524 level:1 key:2181943263233
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:1524 level:1 key:4363786649601
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:1524 level:1 key:6545630035969
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:1524 level:1 key:8727473422337
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:1524 level:1 key:10909316808705
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:3048 y:1524 level:1 key:13091160195073
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:0 y:2032 level:1 key:133169153
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:2032 level:1 key:2181976555521
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:2032 level:1 key:4363819941889
+05-23 22:06:35.922 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:2032 level:1 key:6545663328257
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:2032 level:1 key:8727506714625
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:2032 level:1 key:10909350100993
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:3048 y:2032 level:1 key:13091193487361
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:0 y:2540 level:1 key:166461441
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:2540 level:1 key:2182009847809
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:2540 level:1 key:4363853234177
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:2540 level:1 key:6545696620545
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:2540 level:1 key:8727540006913
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:2540 level:1 key:10909383393281
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:3048 y:2540 level:1 key:13091226779649
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:0 y:3048 level:1 key:199753729
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:3048 level:1 key:2182043140097
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:3048 level:1 key:4363886526465
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:3048 level:1 key:6545729912833
+05-23 22:06:35.923 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:3048 level:1 key:8727573299201
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:3048 level:1 key:10909416685569
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:3048 y:3048 level:1 key:13091260071937
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:0 y:3556 level:1 key:233046017
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:3556 level:1 key:2182076432385
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:3556 level:1 key:4363919818753
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:3556 level:1 key:6545763205121
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:3556 level:1 key:8727606591489
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:3556 level:1 key:10909449977857
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:3048 y:3556 level:1 key:13091293364225
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:0 y:4064 level:1 key:266338305
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:508 y:4064 level:1 key:2182109724673
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1016 y:4064 level:1 key:4363953111041
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:1524 y:4064 level:1 key:6545796497409
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2032 y:4064 level:1 key:8727639883777
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:2540 y:4064 level:1 key:10909483270145
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView:  activateTile x:3048 y:4064 level:1 key:13091326656513
+05-23 22:06:35.924 1754-1782/com.android.gallery3d D/TileImageView: render start ======================== ======================== ======================== ========================
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: render imgWidth:3072.0 width:1080.0 seg:6 len:8.4375 ptail:0.0078125 pseg:0.16536458
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: tx:0 pseg:0.16536458 pcur:0.0
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.9921875
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: tx:508 pseg:0.16536458 pcur:0.0
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.8268229
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: tx:1016 pseg:0.16536458 pcur:0.0
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.6614583
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: tx:1524 pseg:0.16536458 pcur:0.0
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.49609375
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: tx:2032 pseg:0.16536458 pcur:0.0
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.33072916
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: tx:2540 pseg:0.16536458 pcur:0.0
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.16536458
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: tx:3048 pseg:0.16536458 pcur:0.0
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:0.0
+05-23 22:06:35.925 1754-1782/com.android.gallery3d D/TileImageView: 1 pso:0.0 pcur:0.0po:0.0 len:8.4375 nso:7
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: loop ty:0 y:240.0
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.926 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: loop ty:508 y:418.59375
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: loop ty:1016 y:597.1875
+05-23 22:06:35.927 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: loop ty:1524 y:775.78125
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.928 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.929 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.929 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.929 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.929 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.929 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.929 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.929 1754-1782/com.android.gallery3d D/TileImageView: drawTile tx:1524 ty:1524 level:1 x:535.78125 y:775.78125 length:178.59375 pr:0.0
+05-23 22:06:35.929 1754-1782/com.android.gallery3d D/TileImageView: drawTile mRotation:0
+05-23 22:06:35.929 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 1524)
+05-23 22:06:35.929 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.929 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.929 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: loop ty:2032 y:954.375
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.930 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: loop ty:2540 y:1132.9688
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: loop ty:3048 y:1311.5625
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.931 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.932 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.933 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.933 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.933 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.933 1754-1782/com.android.gallery3d D/TileImageView: loop ty:3556 y:1490.1563
+05-23 22:06:35.933 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.933 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.933 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.933 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.933 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.933 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.934 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.934 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: loop ty:4064 y:1668.75
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.935 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.936 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.936 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.936 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.936 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.936 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.936 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.936 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.936 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.936 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.936 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.936 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.936 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.936 1754-1782/com.android.gallery3d D/TileImageView: render end *************** *************** *************** *************** *************** ***************
+05-23 22:06:35.955 1754-1782/com.android.gallery3d D/TileImageView: setRotation centerX:600.0 centerY:600.0 rotation:0.0
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: setPosition centerX:1536 centerY:2048 scale:0.3515625 rotation:0 rect:Rect(0, 240 - 1080, 1680)
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: render start ======================== ======================== ======================== ========================
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: render imgWidth:3072.0 width:1080.0 seg:6 len:8.4375 ptail:0.0078125 pseg:0.16536458
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: tx:0 pseg:0.16536458 pcur:0.0
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.9921875
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: tx:508 pseg:0.16536458 pcur:0.0
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.8268229
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: tx:1016 pseg:0.16536458 pcur:0.0
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.6614583
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: tx:1524 pseg:0.16536458 pcur:0.0
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.49609375
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: tx:2032 pseg:0.16536458 pcur:0.0
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.33072916
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: tx:2540 pseg:0.16536458 pcur:0.0
+05-23 22:06:35.956 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.16536458
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: tx:3048 pseg:0.16536458 pcur:0.0
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:0.0
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: 1 pso:0.0 pcur:0.0po:0.0 len:8.4375 nso:7
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: loop ty:0 y:240.0
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.957 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: loop ty:508 y:418.59375
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.958 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: loop ty:1016 y:597.1875
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: loop ty:1524 y:775.78125
+05-23 22:06:35.959 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.960 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.960 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.960 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.960 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.960 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.960 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.960 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.960 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.960 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.960 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.960 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.960 1754-1782/com.android.gallery3d D/TileImageView: drawTile tx:1524 ty:1524 level:1 x:535.78125 y:775.78125 length:178.59375 pr:0.0
+05-23 22:06:35.960 1754-1782/com.android.gallery3d D/TileImageView: drawTile mRotation:0
+05-23 22:06:35.962 1754-1782/com.android.gallery3d D/TileImageView: tile(1524,1524) source:RectF(1.0, 1.0, 255.0, 255.0) target:RectF(535.78125, 775.78125, 714.375, 954.375)
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: loop ty:2032 y:954.375
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.963 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: loop ty:2540 y:1132.9688
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.964 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: loop ty:3048 y:1311.5625
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.965 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: loop ty:3556 y:1490.1563
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.966 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: loop ty:4064 y:1668.75
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.967 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(0, 0)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(0, 508)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(0, 1016)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(0, 1524)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(0, 2032)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(0, 2540)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(0, 3048)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(0, 3556)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(0, 4064)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 0)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 254)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 508)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 762)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 1016)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 1270)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 1524)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 1778)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 2032)
+05-23 22:06:35.968 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 2286)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 2540)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 2794)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 3048)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 3302)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 3556)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(254, 3810)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 0)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 0)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 254)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 508)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 508)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 762)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 1016)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 1016)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 1270)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 1524)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 1524)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 1778)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 2032)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 2032)
+05-23 22:06:35.969 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 2286)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 2540)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 2540)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 2794)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 3048)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 3048)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 3302)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 3556)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 3556)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 3810)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(508, 4064)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 0)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 254)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 508)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 762)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 1016)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 1270)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 1524)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 1778)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 2032)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 2286)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 2540)
+05-23 22:06:35.970 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 2794)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 3048)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 3302)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 3556)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(762, 3810)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 0)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 0)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 254)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 508)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 508)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 762)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 1016)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 1016)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 1270)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 1524)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 1524)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 1778)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 2032)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 2032)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 2286)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 2540)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 2540)
+05-23 22:06:35.971 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 2794)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 3048)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 3048)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 3302)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 3556)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 3556)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 3810)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1016, 4064)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 0)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 254)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 508)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 762)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 1016)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 1270)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 1524)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 1778)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 2032)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 2286)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 2540)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 2794)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 3048)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 3302)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 3556)
+05-23 22:06:35.972 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1270, 3810)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 0)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 0)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 254)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 508)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 508)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 762)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 1016)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 1016)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 1270)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 1524)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 1778)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 2032)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 2032)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 2286)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 2540)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 2540)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 2794)
+05-23 22:06:35.973 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 3048)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 3048)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 3302)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 3556)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 3556)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 3810)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1524, 4064)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 0)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 254)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 508)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 762)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 1016)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 1270)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 1524)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 1778)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 2032)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 2286)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 2540)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 2794)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 3048)
+05-23 22:06:35.974 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 3302)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 3556)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(1778, 3810)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 0)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 0)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 254)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 508)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 508)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 762)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 1016)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 1016)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 1270)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 1524)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 1524)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 1778)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 2032)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 2032)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 2286)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 2540)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 2540)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 2794)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 3048)
+05-23 22:06:35.975 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 3048)
+05-23 22:06:35.976 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 3302)
+05-23 22:06:35.976 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 3556)
+05-23 22:06:35.976 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 3556)
+05-23 22:06:35.976 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 3810)
+05-23 22:06:35.976 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2032, 4064)
+05-23 22:06:35.976 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 0)
+05-23 22:06:35.976 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 254)
+05-23 22:06:35.976 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 508)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 762)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 1016)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 1270)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 1524)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 1778)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 2032)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 2286)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 2540)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 2794)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 3048)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 3302)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 3556)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2286, 3810)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 0)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 0)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 254)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 508)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 508)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 762)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 1016)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 1016)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 1270)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 1524)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 1524)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 1778)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 2032)
+05-23 22:06:35.977 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 2032)
+05-23 22:06:35.978 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 2286)
+05-23 22:06:35.978 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 2540)
+05-23 22:06:35.978 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 2540)
+05-23 22:06:35.978 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 2794)
+05-23 22:06:35.978 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 3048)
+05-23 22:06:35.978 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 3048)
+05-23 22:06:35.978 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 3302)
+05-23 22:06:35.978 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 3556)
+05-23 22:06:35.978 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 3556)
+05-23 22:06:35.979 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 3810)
+05-23 22:06:35.979 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(2540, 4064)
+05-23 22:06:35.979 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(3048, 0)
+05-23 22:06:35.979 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(3048, 508)
+05-23 22:06:35.979 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(3048, 1016)
+05-23 22:06:35.979 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(3048, 1524)
+05-23 22:06:35.979 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(3048, 2032)
+05-23 22:06:35.979 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(3048, 2540)
+05-23 22:06:35.979 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(3048, 3048)
+05-23 22:06:35.979 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(3048, 3556)
+05-23 22:06:35.979 1754-1782/com.android.gallery3d D/TileImageView: queueForDecode tile:(3048, 4064)
+05-23 22:06:35.979 1754-1782/com.android.gallery3d D/TileImageView: render end *************** *************** *************** *************** *************** ***************
+05-23 22:06:36.018 1754-1782/com.android.gallery3d D/TileImageView: setRotation centerX:600.0 centerY:600.0 rotation:0.0
+05-23 22:06:36.018 1754-1782/com.android.gallery3d D/TileImageView: setPosition centerX:1536 centerY:2048 scale:0.3515625 rotation:0 rect:Rect(0, 240 - 1080, 1680)
+05-23 22:06:36.018 1754-1782/com.android.gallery3d D/TileImageView: render start ======================== ======================== ======================== ========================
+05-23 22:06:36.018 1754-1782/com.android.gallery3d D/TileImageView: render imgWidth:3072.0 width:1080.0 seg:6 len:8.4375 ptail:0.0078125 pseg:0.16536458
+05-23 22:06:36.018 1754-1782/com.android.gallery3d D/TileImageView: tx:0 pseg:0.16536458 pcur:0.0
+05-23 22:06:36.018 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.9921875
+05-23 22:06:36.018 1754-1782/com.android.gallery3d D/TileImageView: tx:508 pseg:0.16536458 pcur:0.0
+05-23 22:06:36.018 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.8268229
+05-23 22:06:36.018 1754-1782/com.android.gallery3d D/TileImageView: tx:1016 pseg:0.16536458 pcur:0.0
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.6614583
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: tx:1524 pseg:0.16536458 pcur:0.0
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.49609375
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: tx:2032 pseg:0.16536458 pcur:0.0
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.33072916
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: tx:2540 pseg:0.16536458 pcur:0.0
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:-0.16536458
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: tx:3048 pseg:0.16536458 pcur:0.0
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: pcur:0.0 pbk:0.0
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: 1 pso:0.0 pcur:0.0po:0.0 len:8.4375 nso:7
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: loop ty:0 y:240.0
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.019 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: loop ty:508 y:418.59375
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:36.020 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: loop ty:1016 y:597.1875
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:36.021 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: loop ty:1524 y:775.78125
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: drawTile tx:1524 ty:1524 level:1 x:535.78125 y:775.78125 length:178.59375 pr:0.0
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: drawTile mRotation:0
+05-23 22:06:36.022 1754-1782/com.android.gallery3d D/TileImageView: tile(1524,1524) source:RectF(1.0, 1.0, 255.0, 255.0) target:RectF(535.78125, 775.78125, 714.375, 954.375)
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: loop ty:2032 y:954.375
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:36.023 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: loop ty:2540 y:1132.9688
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:36.024 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: loop ty:3048 y:1311.5625
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:36.025 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: loop ty:3556 y:1490.1563
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:36.026 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: loop ty:4064 y:1668.75
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: loop tx:0 x:0.0
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:0 seg:6 nso:7
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: loop tx:508 x:178.59375
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:1 seg:6 nso:7
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1016 x:357.1875
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:2 seg:6 nso:7
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: loop tx:1524 x:535.78125
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:3 seg:6 nso:7
+05-23 22:06:36.027 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.028 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2032 x:714.375
+05-23 22:06:36.028 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:4 seg:6 nso:7
+05-23 22:06:36.028 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.028 1754-1782/com.android.gallery3d D/TileImageView: loop tx:2540 x:892.96875
+05-23 22:06:36.028 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:5 seg:6 nso:7
+05-23 22:06:36.028 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.028 1754-1782/com.android.gallery3d D/TileImageView: loop tx:3048 x:1071.5625
+05-23 22:06:36.028 1754-1782/com.android.gallery3d D/TileImageView: getPratio pcur:0.0 pso:0.0po:0.0 pseg:0.16536458
+                                                                     ptail:0.0078125 id:6 seg:6 nso:7
+05-23 22:06:36.028 1754-1782/com.android.gallery3d D/TileImageView: getPratio pr:0.0
+05-23 22:06:36.028 1754-1782/com.android.gallery3d D/TileImageView: render end *************** *************** *************** *************** *************** ***************

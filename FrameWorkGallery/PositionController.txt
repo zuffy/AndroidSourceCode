@@ -1,0 +1,298 @@
+PositionController
+
+05-23 13:58:53.999 11526-11526/com.android.gallery3d D/PositionController: initPlatform
+05-23 13:58:53.999 11526-11526/com.android.gallery3d D/PositionController: updateDefaultXY mDefaultX:0 mDefaultY:0
+05-23 13:58:54.030 11526-11526/com.android.gallery3d D/PositionController: skipToFinalPosition
+05-23 13:58:54.030 11526-11526/com.android.gallery3d D/PositionController: snapAndRedraw
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: redraw
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:0 boxwidth:1200 boxheight:1200 r:Rect(0, 0 - 1200, 1200)
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:1 boxwidth:1200 boxheight:1200 r:Rect(1248, 0 - 2448, 1200)
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:-1 boxwidth:1200 boxheight:1200 r:Rect(-1248, 0 - -48, 1200)
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:2 boxwidth:1200 boxheight:1200 r:Rect(2496, 0 - 3696, 1200)
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:-2 boxwidth:1200 boxheight:1200 r:Rect(-2496, 0 - -1296, 1200)
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: Gap -2: 48
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: Gap -1: 48
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: Gap 0: 48
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: Gap 1: 48
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: Rect 0:(600,600) [1200x1200]
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: Rect 1:(1848,600) [1200x1200]
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: Rect -1:(-648,600) [1200x1200]
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: Rect 2:(3096,600) [1200x1200]
+05-23 13:58:54.031 11526-11526/com.android.gallery3d D/PositionController: Rect -2:(-1896,600) [1200x1200]
+05-23 13:58:54.032 11526-11526/com.android.gallery3d D/PositionController: skipAnimation
+05-23 13:58:54.032 11526-11526/com.android.gallery3d D/PositionController: redraw
+05-23 13:58:54.032 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:0 boxwidth:1200 boxheight:1200 r:Rect(0, 0 - 1200, 1200)
+05-23 13:58:54.032 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:1 boxwidth:1200 boxheight:1200 r:Rect(1248, 0 - 2448, 1200)
+05-23 13:58:54.032 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:-1 boxwidth:1200 boxheight:1200 r:Rect(-1248, 0 - -48, 1200)
+05-23 13:58:54.032 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:2 boxwidth:1200 boxheight:1200 r:Rect(2496, 0 - 3696, 1200)
+05-23 13:58:54.032 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:-2 boxwidth:1200 boxheight:1200 r:Rect(-2496, 0 - -1296, 1200)
+05-23 13:58:54.032 11526-11526/com.android.gallery3d D/PositionController: Gap -2: 48
+05-23 13:58:54.032 11526-11526/com.android.gallery3d D/PositionController: Gap -1: 48
+05-23 13:58:54.032 11526-11526/com.android.gallery3d D/PositionController: Gap 0: 48
+05-23 13:58:54.032 11526-11526/com.android.gallery3d D/PositionController: Gap 1: 48
+05-23 13:58:54.032 11526-11526/com.android.gallery3d D/PositionController: Rect 0:(600,600) [1200x1200]
+05-23 13:58:54.032 11526-11526/com.android.gallery3d D/PositionController: Rect 1:(1848,600) [1200x1200]
+05-23 13:58:54.033 11526-11526/com.android.gallery3d D/PositionController: Rect -1:(-648,600) [1200x1200]
+05-23 13:58:54.033 11526-11526/com.android.gallery3d D/PositionController: Rect 2:(3096,600) [1200x1200]
+05-23 13:58:54.033 11526-11526/com.android.gallery3d D/PositionController: Rect -2:(-1896,600) [1200x1200]
+05-23 13:58:54.076 11526-11526/com.android.gallery3d D/PositionController: moveBox start ================= ================= ================= ================= ================= =================
+05-23 13:58:54.076 11526-11526/com.android.gallery3d D/PositionController: moveBox: N N N N N
+05-23 13:58:54.076 11526-11526/com.android.gallery3d D/PositionController: moveBox  hasPrev:false hasNext:true constrained:false sizes:[Lcom.android.gallery3d.ui.PhotoView$Size;@7a0592e
+05-23 13:58:54.077 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:0 boxwidth:1200 boxheight:1200 r:Rect(0, 0 - 1200, 1200)
+05-23 13:58:54.077 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:1 boxwidth:1200 boxheight:1200 r:Rect(1248, 0 - 2448, 1200)
+05-23 13:58:54.077 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:-1 boxwidth:1200 boxheight:1200 r:Rect(-1248, 0 - -48, 1200)
+05-23 13:58:54.077 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:2 boxwidth:1200 boxheight:1200 r:Rect(2496, 0 - 3696, 1200)
+05-23 13:58:54.077 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:-2 boxwidth:1200 boxheight:1200 r:Rect(-2496, 0 - -1296, 1200)
+05-23 13:58:54.078 11526-11526/com.android.gallery3d D/PositionController: Gap -2: 48
+05-23 13:58:54.078 11526-11526/com.android.gallery3d D/PositionController: Gap -1: 48
+05-23 13:58:54.078 11526-11526/com.android.gallery3d D/PositionController: Gap 0: 48
+05-23 13:58:54.078 11526-11526/com.android.gallery3d D/PositionController: Gap 1: 48
+05-23 13:58:54.078 11526-11526/com.android.gallery3d D/PositionController: Rect 0:(600,600) [1200x1200]
+05-23 13:58:54.078 11526-11526/com.android.gallery3d D/PositionController: Rect 1:(1848,600) [1200x1200]
+05-23 13:58:54.078 11526-11526/com.android.gallery3d D/PositionController: Rect -1:(-648,600) [1200x1200]
+05-23 13:58:54.078 11526-11526/com.android.gallery3d D/PositionController: Rect 2:(3096,600) [1200x1200]
+05-23 13:58:54.078 11526-11526/com.android.gallery3d D/PositionController: Rect -2:(-1896,600) [1200x1200]
+05-23 13:58:54.078 11526-11526/com.android.gallery3d D/PositionController: moveBox layoutAndSetPosition Box:-2 mAbsoluteX:-2496 mViewW:1200
+05-23 13:58:54.079 11526-11526/com.android.gallery3d D/PositionController: moveBox layoutAndSetPosition Box:-1 mAbsoluteX:-1248 mViewW:1200
+05-23 13:58:54.079 11526-11526/com.android.gallery3d D/PositionController: moveBox layoutAndSetPosition Box:0 mAbsoluteX:0 mViewW:1200
+05-23 13:58:54.079 11526-11526/com.android.gallery3d D/PositionController: moveBox layoutAndSetPosition Box:1 mAbsoluteX:1248 mViewW:1200
+05-23 13:58:54.079 11526-11526/com.android.gallery3d D/PositionController: moveBox layoutAndSetPosition Box:2 mAbsoluteX:2496 mViewW:1200
+05-23 13:58:54.079 11526-11526/com.android.gallery3d D/PositionController: moveBox init Box:-2 w:0 h:0
+05-23 13:58:54.079 11526-11526/com.android.gallery3d D/PositionController: moveBox init Box:-1 w:0 h:0
+05-23 13:58:54.079 11526-11526/com.android.gallery3d D/PositionController: moveBox init Box:0 w:936 h:1248
+05-23 13:58:54.079 11526-11526/com.android.gallery3d D/PositionController: moveBox init Box:1 w:1920 h:1440
+05-23 13:58:54.079 11526-11526/com.android.gallery3d D/PositionController: moveBox init Box:2 w:1920 h:1440
+05-23 13:58:54.079 11526-11526/com.android.gallery3d D/PositionController: moveBox step 6.1 first:0 last:0
+05-23 13:58:54.079 11526-11526/com.android.gallery3d D/PositionController: moveBox step 6.2 first:0 last:0
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: Box dx:0 mPlatform.mCurrentX:0 mPlatform.mFromX:0 mPlatform.mToX:0 mPlatform.mFlingOffset:0
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: updateDefaultXY mDefaultX:0 mDefaultY:0
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:-2 mScaleMin:1.0 mScaleMax:4.0 w:1200 h:1200
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:-1 mScaleMin:1.0 mScaleMax:4.0 w:1200 h:1200
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:0 mScaleMin:0.96153843 mScaleMax:1.0 w:936 h:1248
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:1 mScaleMin:0.625 mScaleMax:1.0 w:1920 h:1440
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:2 mScaleMin:0.625 mScaleMax:1.0 w:1920 h:1440
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:-2 mDefaultSize:48
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:-1 mDefaultSize:198
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:0 mDefaultSize:198
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:1 mDefaultSize:48
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: snapAndRedraw
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: redraw
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:0 boxwidth:900 boxheight:1200 r:Rect(150, 0 - 1050, 1200)
+05-23 13:58:54.080 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:1 boxwidth:1200 boxheight:900 r:Rect(1248, 150 - 2448, 1050)
+05-23 13:58:54.081 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:-1 boxwidth:1200 boxheight:1200 r:Rect(-1248, 0 - -48, 1200)
+05-23 13:58:54.081 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:2 boxwidth:1200 boxheight:900 r:Rect(2496, 150 - 3696, 1050)
+05-23 13:58:54.082 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:-2 boxwidth:1200 boxheight:1200 r:Rect(-2496, 0 - -1296, 1200)
+05-23 13:58:54.082 11526-11526/com.android.gallery3d D/PositionController: Gap -2: 48
+05-23 13:58:54.082 11526-11526/com.android.gallery3d D/PositionController: Gap -1: 198
+05-23 13:58:54.082 11526-11526/com.android.gallery3d D/PositionController: Gap 0: 198
+05-23 13:58:54.082 11526-11526/com.android.gallery3d D/PositionController: Gap 1: 48
+05-23 13:58:54.082 11526-11526/com.android.gallery3d D/PositionController: Rect 0:(600,600) [900x1200]
+05-23 13:58:54.082 11526-11526/com.android.gallery3d D/PositionController: Rect 1:(1848,600) [1200x900]
+05-23 13:58:54.082 11526-11526/com.android.gallery3d D/PositionController: Rect -1:(-648,600) [1200x1200]
+05-23 13:58:54.082 11526-11526/com.android.gallery3d D/PositionController: Rect 2:(3096,600) [1200x900]
+05-23 13:58:54.082 11526-11526/com.android.gallery3d D/PositionController: Rect -2:(-1896,600) [1200x1200]
+05-23 13:58:54.083 11526-11526/com.android.gallery3d D/PositionController: moveBox end ******************* *******************  ******************* ******************* ******************* ******************* 
+05-23 13:58:54.083 11526-11526/com.android.gallery3d D/PositionController: setImageSize Box i:-2 w:0 h:0 cFrame:null
+05-23 13:58:54.083 11526-11526/com.android.gallery3d D/PositionController: setImageSize Box i:-1 w:0 h:0 cFrame:null
+05-23 13:58:54.083 11526-11526/com.android.gallery3d D/PositionController: setImageSize Box i:0 w:936 h:1248 cFrame:null
+05-23 13:58:54.083 11526-11526/com.android.gallery3d D/PositionController: setBoxSize Box i:0 width936 height1248 isViewSize:false wasViewSize:false
+05-23 13:58:54.083 11526-11526/com.android.gallery3d D/PositionController: setImageSize Box i:1 w:1920 h:1440 cFrame:null
+05-23 13:58:54.083 11526-11526/com.android.gallery3d D/PositionController: setBoxSize Box i:1 width1920 height1440 isViewSize:false wasViewSize:false
+05-23 13:58:54.083 11526-11526/com.android.gallery3d D/PositionController: setImageSize Box i:2 w:1920 h:1440 cFrame:null
+05-23 13:58:54.083 11526-11526/com.android.gallery3d D/PositionController: setBoxSize Box i:2 width1920 height1440 isViewSize:false wasViewSize:false
+05-23 13:58:54.125 11526-11526/com.android.gallery3d D/PositionController: setImageSize Box i:1 w:1248 h:936 cFrame:null
+05-23 13:58:54.125 11526-11526/com.android.gallery3d D/PositionController: setBoxSize Box i:1 width1248 height936 isViewSize:false wasViewSize:false
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: setBoxSize Box i:1 mImageW1248 mImageH936 mCurrentScale:0.96153843 mFocusX:0.0 mFocusY:0.0 ratio:1.5384616
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:-2 mScaleMin:1.0 mScaleMax:4.0 w:1200 h:1200
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:-1 mScaleMin:1.0 mScaleMax:4.0 w:1200 h:1200
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:0 mScaleMin:0.96153843 mScaleMax:1.0 w:936 h:1248
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:1 mScaleMin:0.96153843 mScaleMax:1.0 w:1248 h:936
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:2 mScaleMin:0.625 mScaleMax:1.0 w:1920 h:1440
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:-2 mDefaultSize:48
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:-1 mDefaultSize:198
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:0 mDefaultSize:198
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:1 mDefaultSize:48
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: snapAndRedraw
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: redraw
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:0 boxwidth:900 boxheight:1200 r:Rect(150, 0 - 1050, 1200)
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:1 boxwidth:1200 boxheight:900 r:Rect(1248, 150 - 2448, 1050)
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:-1 boxwidth:1200 boxheight:1200 r:Rect(-1248, 0 - -48, 1200)
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:2 boxwidth:1200 boxheight:900 r:Rect(2496, 150 - 3696, 1050)
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:-2 boxwidth:1200 boxheight:1200 r:Rect(-2496, 0 - -1296, 1200)
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: Gap -2: 48
+05-23 13:58:54.126 11526-11526/com.android.gallery3d D/PositionController: Gap -1: 198
+05-23 13:58:54.127 11526-11526/com.android.gallery3d D/PositionController: Gap 0: 198
+05-23 13:58:54.127 11526-11526/com.android.gallery3d D/PositionController: Gap 1: 48
+05-23 13:58:54.127 11526-11526/com.android.gallery3d D/PositionController: Rect 0:(600,600) [900x1200]
+05-23 13:58:54.127 11526-11526/com.android.gallery3d D/PositionController: Rect 1:(1848,600) [1200x900]
+05-23 13:58:54.127 11526-11526/com.android.gallery3d D/PositionController: Rect -1:(-648,600) [1200x1200]
+05-23 13:58:54.127 11526-11526/com.android.gallery3d D/PositionController: Rect 2:(3096,600) [1200x900]
+05-23 13:58:54.127 11526-11526/com.android.gallery3d D/PositionController: Rect -2:(-1896,600) [1200x1200]
+05-23 13:58:54.164 11526-11526/com.android.gallery3d D/PositionController: setImageSize Box i:2 w:1248 h:936 cFrame:null
+05-23 13:58:54.164 11526-11526/com.android.gallery3d D/PositionController: setBoxSize Box i:2 width1248 height936 isViewSize:false wasViewSize:false
+05-23 13:58:54.164 11526-11526/com.android.gallery3d D/PositionController: setBoxSize Box i:2 mImageW1248 mImageH936 mCurrentScale:0.96153843 mFocusX:0.0 mFocusY:0.0 ratio:1.5384616
+05-23 13:58:54.164 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:-2 mScaleMin:1.0 mScaleMax:4.0 w:1200 h:1200
+05-23 13:58:54.165 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:-1 mScaleMin:1.0 mScaleMax:4.0 w:1200 h:1200
+05-23 13:58:54.165 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:0 mScaleMin:0.96153843 mScaleMax:1.0 w:936 h:1248
+05-23 13:58:54.165 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:1 mScaleMin:0.96153843 mScaleMax:1.0 w:1248 h:936
+05-23 13:58:54.165 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:2 mScaleMin:0.96153843 mScaleMax:1.0 w:1248 h:936
+05-23 13:58:54.165 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:-2 mDefaultSize:48
+05-23 13:58:54.166 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:-1 mDefaultSize:198
+05-23 13:58:54.166 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:0 mDefaultSize:198
+05-23 13:58:54.166 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:1 mDefaultSize:48
+05-23 13:58:54.166 11526-11526/com.android.gallery3d D/PositionController: snapAndRedraw
+05-23 13:58:54.166 11526-11526/com.android.gallery3d D/PositionController: redraw
+05-23 13:58:54.166 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:0 boxwidth:900 boxheight:1200 r:Rect(150, 0 - 1050, 1200)
+05-23 13:58:54.166 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:1 boxwidth:1200 boxheight:900 r:Rect(1248, 150 - 2448, 1050)
+05-23 13:58:54.166 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:-1 boxwidth:1200 boxheight:1200 r:Rect(-1248, 0 - -48, 1200)
+05-23 13:58:54.167 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:2 boxwidth:1200 boxheight:900 r:Rect(2496, 150 - 3696, 1050)
+05-23 13:58:54.167 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:-2 boxwidth:1200 boxheight:1200 r:Rect(-2496, 0 - -1296, 1200)
+05-23 13:58:54.168 11526-11526/com.android.gallery3d D/PositionController: Gap -2: 48
+05-23 13:58:54.168 11526-11526/com.android.gallery3d D/PositionController: Gap -1: 198
+05-23 13:58:54.168 11526-11526/com.android.gallery3d D/PositionController: Gap 0: 198
+05-23 13:58:54.168 11526-11526/com.android.gallery3d D/PositionController: Gap 1: 48
+05-23 13:58:54.168 11526-11526/com.android.gallery3d D/PositionController: Rect 0:(600,600) [900x1200]
+05-23 13:58:54.169 11526-11526/com.android.gallery3d D/PositionController: Rect 1:(1848,600) [1200x900]
+05-23 13:58:54.169 11526-11526/com.android.gallery3d D/PositionController: Rect -1:(-648,600) [1200x1200]
+05-23 13:58:54.169 11526-11526/com.android.gallery3d D/PositionController: Rect 2:(3096,600) [1200x900]
+05-23 13:58:54.170 11526-11526/com.android.gallery3d D/PositionController: Rect -2:(-1896,600) [1200x1200]
+05-23 13:58:54.296 11526-11547/com.android.gallery3d D/PositionController: setConstrainedFrame cFrame:Rect(0, 0 - 0, 0) mConstrainedFrame.equals(cFrame):true
+05-23 13:58:54.296 11526-11547/com.android.gallery3d D/PositionController: setViewSize viewW:1080 viewH:1920 mViewW:1200 mViewH:1200
+05-23 13:58:54.296 11526-11547/com.android.gallery3d D/PositionController: initPlatform
+05-23 13:58:54.296 11526-11547/com.android.gallery3d D/PositionController: updateDefaultXY mDefaultX:0 mDefaultY:0
+05-23 13:58:54.296 11526-11547/com.android.gallery3d D/PositionController: setBoxSize Box i:-2 width1080 height1920 isViewSize:true wasViewSize:true
+05-23 13:58:54.296 11526-11547/com.android.gallery3d D/PositionController: setBoxSize Box i:-2 mImageW1080 mImageH1920 mCurrentScale:1.0 mFocusX:0.0 mFocusY:0.0 ratio:0.625
+05-23 13:58:54.296 11526-11547/com.android.gallery3d D/PositionController: setBoxSize Box i:-1 width1080 height1920 isViewSize:true wasViewSize:true
+05-23 13:58:54.296 11526-11547/com.android.gallery3d D/PositionController: setBoxSize Box i:-1 mImageW1080 mImageH1920 mCurrentScale:1.0 mFocusX:0.0 mFocusY:0.0 ratio:0.625
+05-23 13:58:54.296 11526-11547/com.android.gallery3d D/PositionController: setBoxSize Box i:0 width1080 height1920 isViewSize:true wasViewSize:false
+05-23 13:58:54.296 11526-11547/com.android.gallery3d D/PositionController: setBoxSize Box i:1 width1080 height1920 isViewSize:true wasViewSize:false
+05-23 13:58:54.296 11526-11547/com.android.gallery3d D/PositionController: setBoxSize Box i:2 width1080 height1920 isViewSize:true wasViewSize:false
+05-23 13:58:54.296 11526-11547/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:-2 mScaleMin:1.0 mScaleMax:4.0 w:1080 h:1920
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:-1 mScaleMin:1.0 mScaleMax:4.0 w:1080 h:1920
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:0 mScaleMin:1.1538461 mScaleMax:4.0 w:936 h:1248
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:1 mScaleMin:0.86538464 mScaleMax:1.0 w:1248 h:936
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:2 mScaleMin:0.86538464 mScaleMax:1.0 w:1248 h:936
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:-2 mDefaultSize:48
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:-1 mDefaultSize:48
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:0 mDefaultSize:48
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:1 mDefaultSize:48
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: skipToFinalPosition
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: snapAndRedraw
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: redraw
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:0 boxwidth:1080 boxheight:1440 r:Rect(0, 240 - 1080, 1680)
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:1 boxwidth:1200 boxheight:900 r:Rect(1278, 510 - 2478, 1410)
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:-1 boxwidth:1080 boxheight:1920 r:Rect(-1278, 0 - -198, 1920)
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:2 boxwidth:1200 boxheight:900 r:Rect(2526, 510 - 3726, 1410)
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:-2 boxwidth:1080 boxheight:1920 r:Rect(-2406, 0 - -1326, 1920)
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: Gap -2: 48
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: Gap -1: 198
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: Gap 0: 198
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: Gap 1: 48
+05-23 13:58:54.297 11526-11547/com.android.gallery3d D/PositionController: Rect 0:(540,960) [1080x1440]
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: Rect 1:(1878,960) [1200x900]
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: Rect -1:(-738,960) [1080x1920]
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: Rect 2:(3126,960) [1200x900]
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: Rect -2:(-1866,960) [1080x1920]
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: skipAnimation
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: redraw
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:0 boxwidth:1080 boxheight:1440 r:Rect(0, 240 - 1080, 1680)
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:1 boxwidth:1080 boxheight:810 r:Rect(1128, 555 - 2208, 1365)
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:-1 boxwidth:1080 boxheight:1920 r:Rect(-1128, 0 - -48, 1920)
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:2 boxwidth:1080 boxheight:810 r:Rect(2256, 555 - 3336, 1365)
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:-2 boxwidth:1080 boxheight:1920 r:Rect(-2256, 0 - -1176, 1920)
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: Gap -2: 48
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: Gap -1: 48
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: Gap 0: 48
+05-23 13:58:54.298 11526-11547/com.android.gallery3d D/PositionController: Gap 1: 48
+05-23 13:58:54.299 11526-11547/com.android.gallery3d D/PositionController: Rect 0:(540,960) [1080x1440]
+05-23 13:58:54.299 11526-11547/com.android.gallery3d D/PositionController: Rect 1:(1668,960) [1080x810]
+05-23 13:58:54.299 11526-11547/com.android.gallery3d D/PositionController: Rect -1:(-588,960) [1080x1920]
+05-23 13:58:54.299 11526-11547/com.android.gallery3d D/PositionController: Rect 2:(2796,960) [1080x810]
+05-23 13:58:54.299 11526-11547/com.android.gallery3d D/PositionController: Rect -2:(-1716,960) [1080x1920]
+05-23 13:58:54.321 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.321 11526-11547/com.android.gallery3d D/PositionController: redraw
+05-23 13:58:54.321 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:0 boxwidth:1080 boxheight:1440 r:Rect(0, 240 - 1080, 1680)
+05-23 13:58:54.321 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:1 boxwidth:1080 boxheight:810 r:Rect(1128, 555 - 2208, 1365)
+05-23 13:58:54.321 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:-1 boxwidth:1080 boxheight:1920 r:Rect(-1128, 0 - -48, 1920)
+05-23 13:58:54.321 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:2 boxwidth:1080 boxheight:810 r:Rect(2256, 555 - 3336, 1365)
+05-23 13:58:54.321 11526-11547/com.android.gallery3d D/PositionController: convertBoxToRect Box:-2 boxwidth:1080 boxheight:1920 r:Rect(-2256, 0 - -1176, 1920)
+05-23 13:58:54.321 11526-11547/com.android.gallery3d D/PositionController: Gap -2: 48
+05-23 13:58:54.321 11526-11547/com.android.gallery3d D/PositionController: Gap -1: 48
+05-23 13:58:54.321 11526-11547/com.android.gallery3d D/PositionController: Gap 0: 48
+05-23 13:58:54.321 11526-11547/com.android.gallery3d D/PositionController: Gap 1: 48
+05-23 13:58:54.321 11526-11547/com.android.gallery3d D/PositionController: Rect 0:(540,960) [1080x1440]
+05-23 13:58:54.321 11526-11547/com.android.gallery3d D/PositionController: Rect 1:(1668,960) [1080x810]
+05-23 13:58:54.322 11526-11547/com.android.gallery3d D/PositionController: Rect -1:(-588,960) [1080x1920]
+05-23 13:58:54.322 11526-11547/com.android.gallery3d D/PositionController: Rect 2:(2796,960) [1080x810]
+05-23 13:58:54.322 11526-11547/com.android.gallery3d D/PositionController: Rect -2:(-1716,960) [1080x1920]
+05-23 13:58:54.333 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.384 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.434 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.501 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: setImageSize Box i:0 w:3072 h:4096 cFrame:null
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: setBoxSize Box i:0 width3072 height4096 isViewSize:false wasViewSize:false
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: setBoxSize Box i:0 mImageW3072 mImageH4096 mCurrentScale:0.3515625 mFocusX:0.0 mFocusY:0.0 ratio:0.3046875
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:-2 mScaleMin:1.0 mScaleMax:4.0 w:1080 h:1920
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:-1 mScaleMin:1.0 mScaleMax:4.0 w:1080 h:1920
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:0 mScaleMin:0.3515625 mScaleMax:1.0 w:3072 h:4096
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:1 mScaleMin:0.86538464 mScaleMax:1.0 w:1248 h:936
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Box i:2 mScaleMin:0.86538464 mScaleMax:1.0 w:1248 h:936
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:-2 mDefaultSize:48
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:-1 mDefaultSize:48
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:0 mDefaultSize:48
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: updateScaleAndGapLimit Gap i:1 mDefaultSize:48
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: snapAndRedraw
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: redraw
+05-23 13:58:54.538 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:0 boxwidth:1080 boxheight:1440 r:Rect(0, 240 - 1080, 1680)
+05-23 13:58:54.539 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:1 boxwidth:1080 boxheight:810 r:Rect(1128, 555 - 2208, 1365)
+05-23 13:58:54.539 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:-1 boxwidth:1080 boxheight:1920 r:Rect(-1128, 0 - -48, 1920)
+05-23 13:58:54.539 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:2 boxwidth:1080 boxheight:810 r:Rect(2256, 555 - 3336, 1365)
+05-23 13:58:54.539 11526-11526/com.android.gallery3d D/PositionController: convertBoxToRect Box:-2 boxwidth:1080 boxheight:1920 r:Rect(-2256, 0 - -1176, 1920)
+05-23 13:58:54.539 11526-11526/com.android.gallery3d D/PositionController: Gap -2: 48
+05-23 13:58:54.539 11526-11526/com.android.gallery3d D/PositionController: Gap -1: 48
+05-23 13:58:54.539 11526-11526/com.android.gallery3d D/PositionController: Gap 0: 48
+05-23 13:58:54.539 11526-11526/com.android.gallery3d D/PositionController: Gap 1: 48
+05-23 13:58:54.539 11526-11526/com.android.gallery3d D/PositionController: Rect 0:(540,960) [1080x1440]
+05-23 13:58:54.539 11526-11526/com.android.gallery3d D/PositionController: Rect 1:(1668,960) [1080x810]
+05-23 13:58:54.539 11526-11526/com.android.gallery3d D/PositionController: Rect -1:(-588,960) [1080x1920]
+05-23 13:58:54.539 11526-11526/com.android.gallery3d D/PositionController: Rect 2:(2796,960) [1080x810]
+05-23 13:58:54.539 11526-11526/com.android.gallery3d D/PositionController: Rect -2:(-1716,960) [1080x1920]
+05-23 13:58:54.561 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.592 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.631 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.660 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.676 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.694 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.705 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.722 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.738 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.756 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.775 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.790 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.806 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.831 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.841 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.856 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.873 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.891 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.908 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.924 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.941 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.957 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.974 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:54.991 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.009 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.026 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.041 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.059 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.076 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.092 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.109 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.127 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.143 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.160 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.177 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.196 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.211 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.229 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
+05-23 13:58:55.295 11526-11547/com.android.gallery3d D/PositionController: advanceAnimation changed:false
